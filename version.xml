@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<config>
+    <software>
+        <version>7.16.8</version>
+        <build>314</build>
+        <brand>NAVIGON_EU</brand>
+        <platform>VW_PID_V2</platform>
+        <copyright>Garmin W&#x00FC;rzburg GmbH, Copyright (c) 2012</copyright>
+        <productprefix>N7</productprefix>
+        <style>VW</style>
+        <productid>N7C8XCMYJ2X5AGU</productid>
+        <id>WVWZZZAAZFD901658</id>
+        <romimage>
+            <version>2.33</version>
+        </romimage>
+        <bluetooth>
+            <core>
+                <version>1.1.102.105</version>
+            </core>
+            <firmware>
+                <version>H14423-V2R43</version>
+            </firmware>
+        </bluetooth>
+        <gts>38|47|11|6|9|114|1|278</gts>
+        <expirationdate>20141228140953Z</expirationdate>
+    </software>
+    <content>
+        <ovm>
+            <name>Overmap Edition</name>
+            <version>2.9.3</version>
+        </ovm>
+        <ovm>
+            <name>RealityView @ Navigon GmbH 2013</name>
+            <version>1.0.0</version>
+        </ovm>
+        <ovm>
+            <name>Fuel Type @ Navteq</name>
+            <version>2013.07.22</version>
+        </ovm>
+        <ovm>
+            <name>PoiWarner</name>
+            <version>2013.11.05</version>
+        </ovm>
+        <paytmc>
+            <name>PremiumTMC-UK@Traffic Master 2013</name>
+            <version>1.0.0</version>
+        </paytmc>
+        <paytmc>
+            <name>PremiumTMC-FR@ViaMichelin 2013</name>
+            <version>1.0.0</version>
+        </paytmc>
+        <paytmc>
+            <name>PremiumTMC-AUT@Asfinag 2013</name>
+            <version>1.0.0</version>
+        </paytmc>
+        <ovm>
+            <name>POIWarner_LIVE</name>
+            <version>2010.07.27</version>
+        </ovm>
+        <ovm>
+            <name>EU_HOTSPOT_woFrance</name>
+            <version>2011.12.19</version>
+        </ovm>
+        <paytmc>
+            <name>Traffic Data (c) INRIX, Inc. 2013</name>
+            <version>1.0.0</version>
+        </paytmc>
+        <misc>
+            <name>VW Speeding 1.0.0 installed</name>
+        </misc>
+        <misc>
+            <name>Radio-Logos</name>
+            <version>2.0.0</version>
+        </misc>
+    </content>
+</config>
